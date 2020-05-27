@@ -1,0 +1,5 @@
+D:\HWI and VSS\DNBE\ATM Installer\Code\MigrationContextUnpack Solution\Projects\MigrationContextUnpack\bin\Debug\MigrationContextUnpack.exe.config
+D:\HWI and VSS\DNBE\ATM Installer\Code\MigrationContextUnpack Solution\Projects\MigrationContextUnpack\bin\Debug\MigrationContextUnpack.exe
+D:\HWI and VSS\DNBE\ATM Installer\Code\MigrationContextUnpack Solution\Projects\MigrationContextUnpack\bin\Debug\MigrationContextUnpack.pdb
+D:\HWI and VSS\DNBE\ATM Installer\Code\MigrationContextUnpack Solution\Projects\MigrationContextUnpack\obj\Debug\MigrationContextUnpack.exe
+D:\HWI and VSS\DNBE\ATM Installer\Code\MigrationContextUnpack Solution\Projects\MigrationContextUnpack\obj\Debug\MigrationContextUnpack.pdb

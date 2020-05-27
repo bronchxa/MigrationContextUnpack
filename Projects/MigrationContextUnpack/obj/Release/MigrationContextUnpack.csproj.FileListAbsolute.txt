@@ -1,0 +1,6 @@
+D:\HWI and VSS\DNBE\ATM Installer\Code\MigrationContextUnpack Solution\Projects\MigrationContextUnpack\bin\Release\MigrationContextUnpack.exe.config
+D:\HWI and VSS\DNBE\ATM Installer\Code\MigrationContextUnpack Solution\Projects\MigrationContextUnpack\bin\Release\MigrationContextUnpack.exe
+D:\HWI and VSS\DNBE\ATM Installer\Code\MigrationContextUnpack Solution\Projects\MigrationContextUnpack\bin\Release\MigrationContextUnpack.pdb
+D:\HWI and VSS\DNBE\ATM Installer\Code\MigrationContextUnpack Solution\Projects\MigrationContextUnpack\obj\Release\MigrationContextUnpack.csprojResolveAssemblyReference.cache
+D:\HWI and VSS\DNBE\ATM Installer\Code\MigrationContextUnpack Solution\Projects\MigrationContextUnpack\obj\Release\MigrationContextUnpack.exe
+D:\HWI and VSS\DNBE\ATM Installer\Code\MigrationContextUnpack Solution\Projects\MigrationContextUnpack\obj\Release\MigrationContextUnpack.pdb
